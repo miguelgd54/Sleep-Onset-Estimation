@@ -1,4 +1,4 @@
-# Sleep Onset-Estimation: Project at NGoggle Diagnostics
+# Sleep Onset Estimation: Project at NGoggle Diagnostics
 
 This is a sample data science and machine learning project from the work I do at NGoggle Diagnostics Inc. This project uses data from publicly available databases.
 The data used is from Sleep-EDF database.
